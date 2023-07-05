@@ -1,4 +1,4 @@
-# tkinter-tetris
+# Tkinter-Tetris
 Fundamentals of Programming Project: "Create a game using tkinter python library and OOP".
 
 ### Gameplay Notes: 
